@@ -1,4 +1,4 @@
-module pedantry
+module github.com/yrahul3910/pedantry
 
 go 1.25.0
 

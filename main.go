@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "pedantry/cmd"
+import "github.com/yrahul3910/pedantry/cmd"
 
 func main() {
 	fmt.Println("hello")
